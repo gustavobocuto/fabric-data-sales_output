@@ -1,1 +1,18 @@
-{"Customer_Type":"Returning","Discount":0.04,"Payment_Method":"Cash","Product_Category":"Furniture","Product_ID":1002,"Quantity_Sold":17,"Region":"North","Region_and_Sales_Rep":"North-David","Sale_Date":"2023-05-30","Sales_Amount":6810.35,"Sales_Channel":"Online","Sales_Rep":"David","Unit_Cost":4024.76,"Unit_Price":4420.150000000001}
+[
+    {
+        "Customer_Type": "Returning",
+        "Discount": 0.04,
+        "Payment_Method": "Cash",
+        "Product_Category": "Furniture",
+        "Product_ID": 1002,
+        "Quantity_Sold": 17,
+        "Region": "North",
+        "Region_and_Sales_Rep": "North-David",
+        "Sale_Date": "2023-05-30",
+        "Sales_Amount": 6810.35,
+        "Sales_Channel": "Online",
+        "Sales_Rep": "David",
+        "Unit_Cost": 4024.76,
+        "Unit_Price": 4420.150000000001
+    }
+]
